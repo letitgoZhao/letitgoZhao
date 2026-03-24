@@ -10,11 +10,11 @@
 
 ### 🔭 What I'm working on
 
-- 🤖 **AI & LLM Agents:** Crafting specialized intelligent agents and multi-modal AI coaching tools using frameworks like *LangChain* and *LangGraph*.
-- 🏢 **Domain-Specific AI:** Architecting Digital Twins via *EnergyPlus* and developing LLM-driven agents to revolutionize intelligent building energy management.
-- 🧠 **DRL & Advanced Technology:** Deep diving into DRL algorithms like *PPO & SAC* for complex optimization while tracking cutting-edge NLP breakthroughs.
-- 💻 **Full-Stack Engineering:** Pioneering next-generation web applications by seamlessly integrating Large Language Models into robust backend systems and responsive, modern frontends.
-- 🐳 **Architecture & Deployment:** Exploring advanced software design patterns and seamlessly orchestrating the deployment of containerized, highly-concurrent AI applications.
+- **AI & LLM Agents:** Crafting specialized intelligent agents and multi-modal AI coaching tools using frameworks like *LangChain* and *LangGraph*.
+- **Domain-Specific AI:** Architecting Digital Twins via *EnergyPlus* and developing LLM-driven agents to revolutionize intelligent building energy management.
+- **DRL & Advanced Technology:** Deep diving into DRL algorithms like *PPO & SAC* for complex optimization while tracking cutting-edge NLP breakthroughs.
+- **Full-Stack Engineering:** Pioneering next-generation web applications by seamlessly integrating Large Language Models into robust backend systems and responsive, modern frontends.
+-  **Architecture & Deployment:** Exploring advanced software design patterns and seamlessly orchestrating the deployment of containerized, highly-concurrent AI applications.
 
 ### 🛠️ Tech Stack & Tools
 
