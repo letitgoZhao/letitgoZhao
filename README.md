@@ -14,22 +14,23 @@
 - **Domain-Specific AI:** Architecting Digital Twins via *EnergyPlus* and developing LLM-driven agents to revolutionize intelligent building energy management.
 - **DRL & Advanced Technology:** Deep diving into DRL algorithms like *PPO & SAC* for complex optimization while tracking cutting-edge NLP breakthroughs.
 - **Full-Stack Engineering:** Pioneering next-generation web applications by seamlessly integrating Large Language Models into robust backend systems and responsive, modern frontends.
--  **Architecture & Deployment:** Exploring advanced software design patterns and seamlessly orchestrating the deployment of containerized, highly-concurrent AI applications.
+- **Architecture & Deployment:** Exploring advanced software design patterns and seamlessly orchestrating the deployment of containerized, highly-concurrent AI applications.
 
-### 🛠️ Tech Stack & Tools
+💻 **Languages**&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3776AB" height="30" alt="Python" title="Python" />
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" title="TypeScript" />
+<img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="C" title="C" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+🛠️ **Frameworks & Tools**&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="30" alt="PyTorch" title="PyTorch" />
+<img src="https://cdn.simpleicons.org/fastapi/009688" height="30" alt="FastAPI" title="FastAPI" />
+<img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" height="30" alt="Vue3" title="Vue3" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="MySQL" title="MySQL" />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="30" alt="LangChain" title="LangChain" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="Docker" title="Docker" />
+<img src="https://cdn.simpleicons.org/anthropic/D97757" height="30" alt="Claude Code" title="Claude Code" />
+<img src="https://cdn.simpleicons.org/linux/FCC624" height="30" alt="Linux" title="Linux" />
+<img src="https://img.shields.io/badge/OpenAI-3498DB?style=flat-square&logo=openai&logoColor=white" height="30" alt="OpenAI" title="OpenAI" />
+<img src="https://img.shields.io/badge/Trae-3498DB?style=flat-square&logoColor=white" height="30" alt="Trae" title="Trae" />
 
-**Languages**<br>
-![Python 3](https://img.shields.io/badge/python%203-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-**Frameworks & Tools**<br>
-![Vue 3](https://img.shields.io/badge/vue%203-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Trae](https://img.shields.io/badge/Trae-2C2C32?style=for-the-badge)
